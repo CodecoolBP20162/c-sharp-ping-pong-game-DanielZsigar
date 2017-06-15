@@ -1,0 +1,8 @@
+C:\Users\Dániel\Documents\Visual Studio 2017\Projects\PingPongGame2\PingPongGame2\bin\Debug\PingPongGame2.exe.config
+C:\Users\Dániel\Documents\Visual Studio 2017\Projects\PingPongGame2\PingPongGame2\bin\Debug\PingPongGame2.exe
+C:\Users\Dániel\Documents\Visual Studio 2017\Projects\PingPongGame2\PingPongGame2\bin\Debug\PingPongGame2.pdb
+C:\Users\Dániel\Documents\Visual Studio 2017\Projects\PingPongGame2\PingPongGame2\obj\Debug\PingPongGame2.csprojResolveAssemblyReference.cache
+C:\Users\Dániel\Documents\Visual Studio 2017\Projects\PingPongGame2\PingPongGame2\obj\Debug\PingPongGame2.Properties.Resources.resources
+C:\Users\Dániel\Documents\Visual Studio 2017\Projects\PingPongGame2\PingPongGame2\obj\Debug\PingPongGame2.csproj.GenerateResource.Cache
+C:\Users\Dániel\Documents\Visual Studio 2017\Projects\PingPongGame2\PingPongGame2\obj\Debug\PingPongGame2.exe
+C:\Users\Dániel\Documents\Visual Studio 2017\Projects\PingPongGame2\PingPongGame2\obj\Debug\PingPongGame2.pdb
